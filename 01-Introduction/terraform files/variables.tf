@@ -10,5 +10,5 @@ variable "my_instance_type"{
 
 variable "my_key"{
   type = string
-  default = "key25"
+  default = "Key25"
 }
